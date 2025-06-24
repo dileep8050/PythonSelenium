@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3211","test_registration_form[test_data2]","","Tue Jun 24 23:24:18 CEST 2025","passed","Tue Jun 24 23:24:21 CEST 2025","TestRegistration","test_registration","",""
+"","3307","test_registration_form[test_data1]","","Tue Jun 24 23:24:10 CEST 2025","passed","Tue Jun 24 23:24:13 CEST 2025","TestRegistration","test_registration","",""
+"","3204","test_registration_form_with_existing_emailid","","Tue Jun 24 23:23:52 CEST 2025","passed","Tue Jun 24 23:23:55 CEST 2025","TestRegistration","test_registration","",""
+"","3629","test_registration_form[test_data0]","","Tue Jun 24 23:24:01 CEST 2025","passed","Tue Jun 24 23:24:05 CEST 2025","TestRegistration","test_registration","",""

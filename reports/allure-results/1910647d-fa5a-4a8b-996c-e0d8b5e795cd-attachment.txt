@@ -1,0 +1,12 @@
+2025-06-24 23:23:45 - [PID 1180] - [INFO] - 🔷 START: test_registration.py::TestRegistration::test_registration_form_with_existing_emailid
+2025-06-24 23:23:52 - [PID 1180] - [INFO] - Typing into element (id, input-firstname): Dileep
+2025-06-24 23:23:52 - [PID 1180] - [INFO] - Typing into element (id, input-lastname): Kumar
+2025-06-24 23:23:53 - [PID 1180] - [INFO] - Typing into element (id, input-email): abc@abc.com
+2025-06-24 23:23:53 - [PID 1180] - [INFO] - Typing into element (id, input-telephone): 1234567891
+2025-06-24 23:23:53 - [PID 1180] - [INFO] - Typing into element (id, input-password): root@123
+2025-06-24 23:23:54 - [PID 1180] - [INFO] - Typing into element (id, input-confirm): root@123
+2025-06-24 23:23:54 - [PID 1180] - [INFO] - Clicking on element (xpath, //label[normalize-space()='Yes'])
+2025-06-24 23:23:54 - [PID 1180] - [INFO] - Clicking on element (xpath, //input[@name='agree'])
+2025-06-24 23:23:55 - [PID 1180] - [INFO] - Clicking on element (css selector, .btn.btn-primary)
+2025-06-24 23:23:55 - [PID 1180] - [INFO] - ✅ Test PASSED: test_registration.py::TestRegistration::test_registration_form_with_existing_emailid
+2025-06-24 23:23:56 - [PID 1180] - [INFO] - 🔶 END: test_registration.py::TestRegistration::test_registration_form_with_existing_emailid

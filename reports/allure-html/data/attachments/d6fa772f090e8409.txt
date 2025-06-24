@@ -1,0 +1,14 @@
+2025-06-24 23:23:56 - [PID 1180] - [INFO] - 🔷 START: test_registration.py::TestRegistration::test_registration_form[test_data0]
+2025-06-24 23:24:01 - [PID 1180] - [INFO] - Typing into element (id, input-firstname): Ravi
+2025-06-24 23:24:01 - [PID 1180] - [INFO] - Typing into element (id, input-lastname): Teja
+2025-06-24 23:24:01 - [PID 1180] - [INFO] - Typing into element (id, input-email): testuser_xtxgt2_20250624232401@gmail.com
+2025-06-24 23:24:02 - [PID 1180] - [INFO] - Typing into element (id, input-telephone): 2222222222
+2025-06-24 23:24:02 - [PID 1180] - [INFO] - Typing into element (id, input-password): raviteja
+2025-06-24 23:24:02 - [PID 1180] - [INFO] - Typing into element (id, input-confirm): raviteja
+2025-06-24 23:24:02 - [PID 1180] - [INFO] - Clicking on element (xpath, //label[normalize-space()='Yes'])
+2025-06-24 23:24:03 - [PID 1180] - [INFO] - Clicking on element (xpath, //input[@name='agree'])
+2025-06-24 23:24:03 - [PID 1180] - [INFO] - Clicking on element (css selector, .btn.btn-primary)
+2025-06-24 23:24:04 - [PID 1180] - [INFO] - Getting text from element (css selector, #content h1)
+2025-06-24 23:24:05 - [PID 1180] - [INFO] - Text retrieved: Your Account Has Been Created!
+2025-06-24 23:24:05 - [PID 1180] - [INFO] - ✅ Test PASSED: test_registration.py::TestRegistration::test_registration_form[test_data0]
+2025-06-24 23:24:06 - [PID 1180] - [INFO] - 🔶 END: test_registration.py::TestRegistration::test_registration_form[test_data0]
