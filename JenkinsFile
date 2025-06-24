@@ -34,7 +34,7 @@ pipeline {
        stage('Checkout Code') {
            steps {
                echo '📥 Checking out code from GitHub...'
-               git url: 'https://github.com/Madhan-091296/TutorialNinja'
+               git url: 'https://github.com/dileep8050/PythonSelenium.git'
            }
        }
        stage('Clean Old Reports') {
@@ -65,7 +65,6 @@ pipeline {
                    catchError(buildResult: 'FAILURE', stageResult: 'FAILURE') {
                        def command = """
                            call venv\\Scripts\\activate.bat && pytest -s -v -m "${params.MARKER}" ^
-                           --reruns=2 --reruns-delay=2 ^
                            --alluredir=%ALLURE_RESULTS% ^
                            --html=%PYTEST_HTML% --self-contained-html ^
                            testCases\\ ^
